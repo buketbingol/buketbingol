@@ -1,6 +1,6 @@
 ## Hi! I'm Buket 👋
-👩‍💻 I'm a Juniour Java Developer & Electrical-Electronics Engineer.\
-⚙️I work in the software department.
+👩‍💻 I'm an Electrical & Electronics Engineer, self-paced software development learner.\
+⚙️I work in the software department @**Canovate**.
 
 ### Work With:
 Java ☕ & SQL
